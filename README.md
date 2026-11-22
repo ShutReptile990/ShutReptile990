@@ -1,7 +1,7 @@
 <!-- GitHub profile README for ShutReptile990. -->
 
 <div align="center">
-  <img src="./assets/banner.svg" width="100%" alt="MIDNIGHT SKYLINE developer skyline" />
+  <img src="./assets/banner.svg" width="100%" alt="ShrishN" />
 
   <h1>Hi, I'm ShutReptile990 👋</h1>
   <p><strong>Developer · Problem Solver · Tech Explorer</strong></p>
