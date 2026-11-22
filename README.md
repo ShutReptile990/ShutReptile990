@@ -48,8 +48,6 @@ I'm exploring **software development, data structures, digital electronics, and 
 <br />
 <img src="./assets/projects-heading.svg" width="100%" alt="Project landmarks" />
 
-<div align="center"><img src="./assets/landmarks.svg" width="100%" alt="Four architectural project landmarks" /></div>
-
 | Landmark | What it explores | Code |
 |:--|:--|:--|
 | 🏛️ **[BudgetClear](https://github.com/ShutReptile990/BudgetClear)** | Evidence-linked auditing of government spending CSVs; validation and anomaly screening. **Python** | [Repository](https://github.com/ShutReptile990/BudgetClear) · [Live app](https://budgetclear-frontend.vercel.app/) |
