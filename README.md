@@ -3,7 +3,7 @@
 <div align="center">
   <img src="./assets/banner.svg" width="100%" alt="ShrishN" />
 
-  <h1>Hi, I'm ShutReptile990 👋</h1>
+  <h1>Hi, I'm ShrishN 👋</h1>
   <p><strong>Developer · Problem Solver · Tech Explorer</strong></p>
   <p>Building useful things, one late-night commit at a time.</p>
   <a href="https://github.com/ShutReptile990?tab=followers"><img src="https://img.shields.io/github/followers/ShutReptile990?style=for-the-badge&color=B26DFF&labelColor=080B23&logo=github" alt="GitHub followers" /></a>
